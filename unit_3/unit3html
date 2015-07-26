@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>Erica Wiles</title>
+
+</head>
+
+	<body>
+
+		<h1>Erica Wiles</h1>
+
+		<p class= "slogan">Not All Those Who Wander Are Lost</p>
+
+		<div class="list"
+			<p id= "summary">Experienced marketer, search engine optimist, and passion-driven human. What have I been apart of? </p>
+
+			<ul>
+				<li><a href="http://www.iacaward.org/iac/winner.asp?eid=15704">Award Winning Hotel & Lodging Website</a></li>
+				<li><a href="http://aoocambodia.org/">Volunteer at Angkor Orphan Organization</a></li>
+				<li><a href="http://vtprism.org/">PRISM - A Student-Run Marketing Agency at Virginia Tech</a></li> 
+				<li><a href="http://www.luganostudyabroad.org/">Theory and Practice Study Abroad Program</a></li><br>
+		</div>
+
+		<p id="contact">Want to talk? Contact me <a href="mailto:erica.wiles1@gmail.com">here</a></p>
+
+			
+
+</body>
+
+
+</html>

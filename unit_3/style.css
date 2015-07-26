@@ -1,0 +1,44 @@
+body {
+	background: url("https://scontent-iad3-1.xx.fbcdn.net/hphotos-prn2/v/t1.0-9/532676_3142326556906_2123695917_n.jpg?oh=02330a968b942c3cf8b356f9b322caf5&oe=565C2B27");
+	background-size: cover;
+	color: white;
+	font-family: Helvetica;
+	font-size: 20x;
+}
+
+h1 {
+	font-size: 40px;
+	text-align:center;
+	text-transform: uppercase;
+	letter-spacing: 6px;
+	padding-bottom: 1em;
+}
+
+.slogan {
+	font-style: italic;
+	text-align: center;
+	font-size: 25px;
+}
+
+#summary {
+	color: black;
+}
+
+
+#contact {
+	text-align: right;
+	letter-spacing: 1.5px;
+	padding: 5em;
+}
+
+
+ul {
+	list-style-type: none;
+}
+
+.list {
+	text-align: left;
+	padding-bottom: 8em;
+	padding-top: 4em;
+	letter-spacing: 1px;
+}
